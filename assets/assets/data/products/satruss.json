@@ -1,0 +1,38 @@
+{
+  "name": "SATRUSS",
+  "slug": "satruss",
+  "summary": "Hệ kèo mè SATRUSS do Sáu Bình Minh sản xuất từ thép mạ nhôm kẽm cường độ cao G550, lớp mạ AZ150, phù hợp cho nhiều công trình mái dân dụng và thương mại.",
+  "imageAsset": "assets/media/images/product_main/he_keo_satruss.webp",
+  "detailIntro": [
+    "Sản phẩm hệ kèo mè mang thương hiệu SATRUSS là một sản phẩm do công ty Sáu Bình Minh sản xuất với công nghệ cán định hình tiên tiến sử dụng nguồn tole hợp kim nhôm kẽm cường độ cao, đạt đầy đủ các yêu cầu khắt khe về cường độ thép G550, lớp mạ nhôm kẽm AZ150 và được cấp chứng nhận bảo hành lớp mạ lên đến 20 năm, tuân thủ quy trình kiểm soát chất lượng ISO9001-2015.",
+    "ĐẶT ĐIỂM NHẬN DẠNG SẢN PHẨM SATRUSS:\n- Thanh có màu Trắng, Xanh Dương (Blue) hoặc Nâu Gỗ (Brown) đặc trưng\n- Trên thanh ghi rõ: SATRUSS\n- Tiết diện và tổng độ dày (TCT)\n- Lớp mạ nhôm kẽm AZ150\n- Cường độ thép G550\n- Sản xuất bởi SABIMICO",
+    "ƯU ĐIỂM VƯỢT TRỘI:\n- Chống ăn mòn vượt trội với vật liệu thép mạ nhôm kẽm cao cấp AZ150.\n- Đảm bảo độ an toàn và chính xác cao với phần mềm chuyên nghiệp SUPRACADD®.\n- Lựa chọn tin cậy với chất lượng đồng bộ tiêu chuẩn Châu Âu.\n- Tiêu chuẩn thiết kế:\n+ Tiêu chuẩn Việt Nam về tải trọng và tác động TCVN 2737-1995\n+ Tiêu chuẩn Australia về thiết kế kết cấu thép AS 4600:1996\n- Dây truyền sản xuất SATRUSS® của Công Ty SÁU BÌNH MINH đạt đến chuẩn mực cao nhất theo công nghệ BlueScope, đảm bảo tính chính xác cao của các sản phẩm đồng thời sẵn sàng cung cấp với thời gian giao hàng ngắn nhất.\n- SATRUSS® được sản xuất theo quy trình quản lý chất lượng ISO 9001:2005, đảm bảo chất lượng tuyệt đối trước khi xuất xưởng.\n- Tiết kiệm chi phí đầu tư dự án và rút ngắn thời gian thi công.\n- Trọng lượng kết cấu mái của hệ dàn mái SATRUSS® nhẹ làm giảm chi phí đầu tư cho các hạng mục khác như móng, kết cấu khung.\n- Nhờ liên kết bằng vít tự khoan cường độ cao, việc lắp dựng được tiến hành đơn giản, nhanh chóng, không cần hàn.\n- Công nghệ đến từ Australia, thân thiện với môi trường.",
+    "CHUẨN SẢN PHẨM:\n- Vật tư chính hãng có đầy đủ chứng nhận xuất xứ rõ ràng.\n- Các loại phụ kiện như bát liên kết, bát đỉnh, ốc vít, bulon, diềm, máng xối... đều đúng tiêu chuẩn chất lượng cao.",
+    "THÔNG SỐ KỸ THUẬT:\n- Khoảng cách vượt nhịp kinh tế không cần gối giữa: 13m đối với mái ngói, 18m đối với mái tôn.\n- Khoảng cách giàn tối ưu nhất: 1.2m đối với mái ngói, 3.0m đối với mái tôn.",
+    "PHẠM VI ỨNG DỤNG:\n- Công trình công cộng: hội trường, trụ sở làm việc, trường học, bệnh viện.\n- Công trình thương mại dịch vụ, yêu cầu hiệu quả kinh tế và rút ngắn thời gian thi công.\n- Nhà biệt thự, nhà ở dân dụng.\n\nLÝ DO LỰA CHỌN SATRUSS®:\n- Sản xuất từ thép mạ hợp kim nhôm kẽm cường độ cao với màu sắc đẹp.\n- Thiết kế bằng phần mềm chuyên nghiệp Supracadd.\n- Chống mối mọt.\n- Chống cháy."
+  ],
+  "priceImageAssets": [
+    "assets/media/images/gallery/bang_gia_satruss_xanh.webp",
+    "assets/media/images/gallery/bang_gia_satruss_nau.webp",
+    "assets/media/images/gallery/bang_gia_satruss_trang.webp"
+  ],
+  "galleryImageAssets": [
+    "assets/media/images/gallery/satruss_tham_khao_01_20260502.webp",
+    "assets/media/images/gallery/satruss_tham_khao_02_20260502.webp",
+    "assets/media/images/gallery/satruss_tham_khao_03_20260502.webp",
+    "assets/media/images/gallery/satruss_tham_khao_04_20260502.webp"
+  ],
+  "highlights": [
+    "Thép nền G550, lớp mạ AZ150",
+    "Bảo hành lớp mạ đến 20 năm",
+    "Thiết kế bằng SUPRACADD®",
+    "Thi công nhanh, không cần hàn"
+  ],
+  "pdfAssets": [
+    {
+      "title": "Cataloge Sáu Bình Minh 14 mặt",
+      "assetPath": "assets/media/pdfs/cataloge_sau_binh_minh_14_mat.pdf"
+    }
+  ],
+  "videoUrls": []
+}

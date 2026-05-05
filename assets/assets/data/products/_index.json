@@ -1,0 +1,183 @@
+{
+  "groups": [
+    {
+      "key": "khung-keo",
+      "title": "KHUNG KÈO",
+      "slugs": [
+        "bluescope",
+        "smartruss",
+        "satruss",
+        "sahome",
+        "phu-kien-truss",
+        "xa-go-kem"
+      ]
+    },
+    {
+      "key": "ton-lop",
+      "title": "TÔN LỢP",
+      "slugs": [
+        "zacs-inok",
+        "zacs-ben",
+        "dong-a",
+        "phu-pu"
+      ]
+    },
+    {
+      "key": "song-ton",
+      "title": "SÓNG TÔN",
+      "slugs": [
+        "9-song-vuong",
+        "5-song-vuong",
+        "6-song-ngoi",
+        "3-song-kliplok",
+        "diem-noc"
+      ]
+    },
+    {
+      "key": "thep-hinh",
+      "title": "THÉP HÌNH",
+      "slugs": [
+        "hop-kem",
+        "thep-u-i-v"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "slug": "bluescope",
+      "file": "assets/data/products/bluescope.json",
+      "name": "BLUESCOPE",
+      "summary": "Thanh kèo và vật tư thép mạ hợp kim nhôm kẽm BlueScope cho hệ mái dân dụng, biệt thự và công trình yêu cầu độ bền cao.",
+      "imageAsset": "assets/media/images/product_main/he_keo_zacs.jpg",
+      "groupKey": "khung-keo"
+    },
+    {
+      "slug": "smartruss",
+      "file": "assets/data/products/smartruss.json",
+      "name": "SMARTRUSS",
+      "summary": "Hệ giàn thép mạ trọng lượng nhẹ LYSAGHT® SMARTRUSS® do NS BlueScope Lysaght Việt Nam sản xuất, phù hợp mái ngói, mái tôn, nhà dân dụng và công trình dịch vụ.",
+      "imageAsset": "assets/media/images/product_main/he_keo_smartruss.jpg",
+      "groupKey": "khung-keo"
+    },
+    {
+      "slug": "satruss",
+      "file": "assets/data/products/satruss.json",
+      "name": "SATRUSS",
+      "summary": "Hệ kèo mè SATRUSS do Sáu Bình Minh sản xuất từ thép mạ nhôm kẽm cường độ cao G550, lớp mạ AZ150, phù hợp cho nhiều công trình mái dân dụng và thương mại.",
+      "imageAsset": "assets/media/images/product_main/he_keo_satruss.webp",
+      "groupKey": "khung-keo"
+    },
+    {
+      "slug": "sahome",
+      "file": "assets/data/products/sahome.json",
+      "name": "SAHOME",
+      "summary": "Giải pháp nhà tiền chế trọn gói SAHOME thi công nhanh, gọn nhẹ, phù hợp nhu cầu nhà ở với chi phí tối ưu.",
+      "imageAsset": "assets/media/images/product_main/nha_xa_hoi_sahome.jpg",
+      "groupKey": "khung-keo"
+    },
+    {
+      "slug": "phu-kien-truss",
+      "file": "assets/data/products/phu-kien-truss.json",
+      "name": "PHỤ KIỆN TRUSS",
+      "summary": "Phụ kiện liên kết đồng bộ cho hệ khung kèo thép nhẹ như bát đỉnh, bát liên kết, vít và bản mã.",
+      "imageAsset": "assets/media/images/product_main/bat_lien_ket_sbm.webp",
+      "groupKey": "khung-keo"
+    },
+    {
+      "slug": "xa-go-kem",
+      "file": "assets/data/products/xa-go-kem.json",
+      "name": "XÀ GỒ KẼM",
+      "summary": "Xà gồ C, Z mạ kẽm và thép hộp mạ kẽm phục vụ mái tôn, mái ngói, nhà xưởng và kết cấu phụ trợ.",
+      "imageAsset": "assets/media/images/product_main/xa_go_kem_sbm.webp",
+      "groupKey": "khung-keo"
+    },
+    {
+      "slug": "zacs-inok",
+      "file": "assets/data/products/zacs-inok.json",
+      "name": "ZACS INOK",
+      "summary": "Tôn Zacs®+ INOK® 450 là dòng tôn dân dụng của NS BlueScope Việt Nam, ứng dụng công nghệ INOK® 450 chống rỉ sét vượt trội và bảo hành chống ăn mòn thủng lên đến 20 năm.",
+      "imageAsset": "assets/media/images/product_main/zacs_inok_450_main.jpg",
+      "groupKey": "ton-lop"
+    },
+    {
+      "slug": "zacs-ben",
+      "file": "assets/data/products/zacs-ben.json",
+      "name": "ZACS BỀN",
+      "summary": "Tôn ZACS Bền Màu INOK 439 cân bằng tốt giữa độ bền, khả năng giữ màu và chi phí đầu tư cho mái dân dụng.",
+      "imageAsset": "assets/media/images/product_main/zacs_ben_mau_main.jpg",
+      "groupKey": "ton-lop"
+    },
+    {
+      "slug": "dong-a",
+      "file": "assets/data/products/dong-a.json",
+      "name": "ĐÔNG Á",
+      "summary": "Tôn Đông Á lạnh và tôn Đông Á màu là dòng vật liệu mái phổ biến, chống ăn mòn tốt và phù hợp nhiều hạng mục dân dụng lẫn công nghiệp.",
+      "imageAsset": "assets/media/images/product_main/dong_a_main_20260429.webp",
+      "groupKey": "ton-lop"
+    },
+    {
+      "slug": "phu-pu",
+      "file": "assets/data/products/phu-pu.json",
+      "name": "PHỦ PU",
+      "summary": "Giải pháp tôn phủ PU SBM giúp cách âm, cách nhiệt và chống nóng hiệu quả cho mái dân dụng, nhà xưởng và công trình cần thi công nhanh.",
+      "imageAsset": "assets/media/images/product_main/pu_main_20260429.jpg",
+      "groupKey": "ton-lop"
+    },
+    {
+      "slug": "9-song-vuong",
+      "file": "assets/data/products/9-song-vuong.json",
+      "name": "9 SÓNG VUÔNG",
+      "summary": "Dòng tôn 9 sóng vuông thông dụng cho mái dân dụng, mái che và nhiều công trình cần thoát nước tốt.",
+      "imageAsset": "assets/media/images/product_main/9_song_vuong_mau_20260502.jpg",
+      "groupKey": "song-ton"
+    },
+    {
+      "slug": "5-song-vuong",
+      "file": "assets/data/products/5-song-vuong.json",
+      "name": "5 SÓNG VUÔNG",
+      "summary": "Dòng tôn 5 sóng vuông dùng cho mái và vách công trình, có sóng cao và bề mặt cứng vững.",
+      "imageAsset": "assets/media/images/product_main/5_song_vuong_mau_20260502.jpg",
+      "groupKey": "song-ton"
+    },
+    {
+      "slug": "6-song-ngoi",
+      "file": "assets/data/products/6-song-ngoi.json",
+      "name": "6 SÓNG NGÓI",
+      "summary": "Tôn sóng ngói tạo hình mái đẹp, phù hợp nhà phố, biệt thự, nhà cấp 4 và các công trình cần thẩm mỹ cao.",
+      "imageAsset": "assets/media/images/product_main/song_ngoi_sbm.jpg",
+      "groupKey": "song-ton"
+    },
+    {
+      "slug": "3-song-kliplok",
+      "file": "assets/data/products/3-song-kliplok.json",
+      "name": "3 SÓNG KLIPLOK",
+      "summary": "Tôn 3 sóng Kliplok cho công trình công nghiệp và mái có yêu cầu cao về độ kín nước.",
+      "imageAsset": "assets/media/images/product_main/song_klip_lok_sbm.webp",
+      "groupKey": "song-ton"
+    },
+    {
+      "slug": "diem-noc",
+      "file": "assets/data/products/diem-noc.json",
+      "name": "DIỀM / NÓC",
+      "summary": "Diềm, nóc và phụ kiện hoàn thiện mái tôn giúp công trình đẹp hơn, kín nước hơn và đồng bộ hơn.",
+      "imageAsset": "assets/media/images/product_main/diem_01_20260502.jpg",
+      "groupKey": "song-ton"
+    },
+    {
+      "slug": "hop-kem",
+      "file": "assets/data/products/hop-kem.json",
+      "name": "HỘP KẼM",
+      "summary": "Thép ống tròn, thép ống vuông và thép hộp mạ kẽm quy cách 6m.",
+      "imageAsset": "assets/media/images/product_main/hop_kem_tham_khao.webp",
+      "groupKey": "thep-hinh"
+    },
+    {
+      "slug": "thep-u-i-v",
+      "file": "assets/data/products/thep-u-i-v.json",
+      "name": "THÉP ĐÚC U/I/V",
+      "summary": "Thép hình U, I, V, tròn đặc và phụ kiện sắt phục vụ kết cấu, gia công và xây dựng.",
+      "imageAsset": "assets/media/images/product_main/thep_u_i_v_tham_khao.webp",
+      "groupKey": "thep-hinh"
+    }
+  ]
+}

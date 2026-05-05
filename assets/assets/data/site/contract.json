@@ -1,0 +1,16 @@
+{
+  "heroImageAsset": "assets/media/images/site/hero_khung_keo.jpg",
+  "title": "HỢP ĐỒNG MẪU",
+  "subtitle": "Tải biểu mẫu hợp đồng để tham khảo",
+  "notice": "Tài liệu chỉ mang tính chất tham khảo. Vui lòng liên hệ chúng tôi để được hỗ trợ chi tiết.",
+  "document": {
+    "title": "Hợp đồng mua bán mẫu.docx",
+    "fileType": "DOCX",
+    "assetPath": "assets/media/docs/HOPDONGMAUSBM.docx",
+    "badges": [
+      "Word",
+      "Biểu mẫu",
+      "Sáu Bình Minh"
+    ]
+  }
+}

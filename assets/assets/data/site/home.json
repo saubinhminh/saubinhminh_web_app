@@ -1,0 +1,30 @@
+{
+  "heroImageAsset": "assets/media/images/site/hero_khung_keo.jpg",
+  "runningSlogan": "Công trình của bạn là niềm tự hào của chúng tôi",
+  "supportItems": [
+    {
+      "imageAsset": "assets/media/images/site/icon_bao_hanh.webp",
+      "title": "BẢO HÀNH",
+      "text": "",
+      "onTapKind": "warranty"
+    },
+    {
+      "imageAsset": "assets/media/images/site/icon_app_sau_binh_minh.webp",
+      "title": "APP SÁU BÌNH MINH",
+      "text": "",
+      "onTapKind": "app"
+    },
+    {
+      "imageAsset": "assets/media/images/site/icon_hop_dong_mau.webp",
+      "title": "HỢP ĐỒNG MẪU",
+      "text": "",
+      "onTapKind": "contract"
+    },
+    {
+      "imageAsset": "assets/media/images/site/icon_ho_so_nang_luc.webp",
+      "title": "HỒ SƠ NĂNG LỰC",
+      "text": "",
+      "onTapKind": "capability_pdf"
+    }
+  ]
+}

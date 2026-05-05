@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <base href="/">
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="Công ty TNHH SX TM Sáu Bình Minh - Tôn lợp, khung kèo, xà gồ, phụ kiện mái.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#0F7A3A">
+  <title>Sáu Bình Minh</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <script>const serviceWorkerVersion = "546936624";</script>
+  <script src="flutter.js" defer></script>
+  <style>
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      min-width: 0;
+      overflow: auto;
+    }
+
+    body {
+      background: #ffffff;
+    }
+  </style>
+</head>
+<body>
+  <script>
+    (function () {
+      try {
+        var redirectRoute = sessionStorage.getItem('sbm_route_404_redirect');
+        if (!redirectRoute) return;
+        sessionStorage.removeItem('sbm_route_404_redirect');
+        if (location.pathname === '/' && redirectRoute !== '/') {
+          history.replaceState(null, '', redirectRoute);
+        }
+      } catch (_) {}
+    })();
+  </script>
+  <script>
+    window.addEventListener('load', function () {
+      _flutter.loader.loadEntrypoint({
+        serviceWorker: { serviceWorkerVersion: serviceWorkerVersion },
+        onEntrypointLoaded: function (engineInitializer) {
+          engineInitializer.initializeEngine().then(function (appRunner) {
+            appRunner.runApp();
+          });
+        }
+      });
+    });
+  </script>
+</body>
+</html>

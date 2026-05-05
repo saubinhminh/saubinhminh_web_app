@@ -1,0 +1,11 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d [OR]
+  RewriteCond %{REQUEST_URI} ^/(assets|canvaskit|icons|packages|flutter_bootstrap\.js|flutter\.js|main\.dart\.js|manifest\.json|favicon\.png|version\.json|index\.html|404\.html|robots\.txt|sitemap\.xml|\.well-known)(/.*)?$ [NC]
+  RewriteRule ^ - [L]
+
+  RewriteRule ^ index.html [L]
+</IfModule>

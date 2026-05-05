@@ -1,0 +1,75 @@
+{
+  "title": "LIÊN HỆ",
+  "backgroundImageAsset": "assets/media/images/site/anh_tru_so_sbm.webp",
+  "overlayColor": "0xD90A7FA0",
+  "introText": "Chúng tôi sẽ tiếp nhận mọi sự góp ý hoặc sẽ tư vấn trực tiếp đến mọi khách hàng đối với các sản phẩm do công ty sản xuất hoặc phân phối.",
+  "companyName": "CÔNG TY TNHH SX TM SÁU BÌNH MINH",
+  "addressLine": "Số 110 đường Nguyễn Văn Thảnh, Tổ 21, Khóm 5, phường Bình Minh, tỉnh Vĩnh Long, Việt Nam.",
+  "taxCodeLine": "1500969443          ĐẠI DIỆN : Trương Văn Sáu (Giám Đốc. 090 3132389)",
+  "phoneLine": "0270 3890418",
+  "infoLines": [
+    "HOTLINE / ZALO : 0977399910 (Tư Zac)",
+    "HOTLINE / ZALO : 0939300901 (Sang Trusa)",
+    "EMAIL : saubinhminh@gmail.com",
+    "WEBSITE : www.saubinhminh.com"
+  ],
+  "actions": [
+    {
+      "icon": "call_rounded",
+      "text": "Gọi ngay",
+      "url": "tel:0977399910"
+    },
+    {
+      "icon": "mail_rounded",
+      "text": "Gửi email",
+      "url": "mailto:saubinhminh@gmail.com"
+    }
+  ],
+  "socialItems": [
+    {
+      "text": "f"
+    },
+    {
+      "text": "Z"
+    },
+    {
+      "icon": "play_arrow_rounded"
+    }
+  ],
+  "branches": [
+    {
+      "name": "SBM1 Nhà Máy Tôn Sáu Bình Minh - Trụ sở chính",
+      "address": "Số 110, Khóm 3, Bình Minh, Vĩnh Long.",
+      "previewImageAsset": "assets/media/images/maps/sbm1_map_preview.webp"
+    },
+    {
+      "name": "SBM2 Nhà Máy Tôn Sáu Bình Minh - Chi nhánh Bình Tân",
+      "address": "Số 13, Tân Thuận, Tân Quới, Vĩnh Long.",
+      "previewImageAsset": "assets/media/images/maps/sbm2_map_preview.webp"
+    },
+    {
+      "name": "SBM3 Nhà Máy Tôn Sáu Bình Minh - Chi nhánh Mái Dầm",
+      "address": "Phú Xuân, Châu Thành, Cần Thơ.",
+      "previewImageAsset": "assets/media/images/maps/sbm3_map_preview.webp"
+    }
+  ],
+  "banks": [
+    {
+      "bank": "SACOMBANK PGD BÌNH MINH",
+      "accountNumber": "070027970573"
+    },
+    {
+      "bank": "ACBBANK PGD BÌNH MINH",
+      "accountNumber": "15009694438"
+    },
+    {
+      "bank": "BIDV CN VĨNH LONG PGD BÌNH MINH",
+      "accountNumber": "73010001741491"
+    },
+    {
+      "bank": "AGRIBANK CN BÌNH MINH",
+      "accountNumber": "7307201000953"
+    }
+  ],
+  "footerHeading": "BẢN ĐỒ HỆ THỐNG"
+}

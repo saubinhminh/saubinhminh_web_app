@@ -1,0 +1,46 @@
+{
+  "title": "BẢO HÀNH - NĂNG LỰC - HỖ TRỢ",
+  "description": "Trang hỗ trợ được mở trước khi vào web, giúp khách thấy ngay bảo hành, app Sáu Bình Minh, hợp đồng mẫu và hồ sơ năng lực.",
+  "shortcutItems": [
+    {
+      "imageAsset": "assets/media/images/site/icon_bao_hanh.webp",
+      "title": "BẢO HÀNH",
+      "text": "",
+      "actionText": "Gọi hỗ trợ",
+      "onTapKind": "phone"
+    },
+    {
+      "imageAsset": "assets/media/images/site/icon_app_sau_binh_minh.webp",
+      "title": "APP SÁU BÌNH MINH",
+      "text": "",
+      "actionText": "Xem liên hệ",
+      "onTapKind": "contact"
+    },
+    {
+      "imageAsset": "assets/media/images/site/icon_hop_dong_mau.webp",
+      "title": "HỢP ĐỒNG MẪU",
+      "text": "",
+      "actionText": "Mở PDF",
+      "onTapKind": "pdf"
+    },
+    {
+      "imageAsset": "assets/media/images/site/icon_ho_so_nang_luc.webp",
+      "title": "HỒ SƠ NĂNG LỰC",
+      "text": "",
+      "actionText": "Xem năng lực",
+      "onTapKind": "capability"
+    }
+  ],
+  "activityTitle": "HOẠT ĐỘNG",
+  "activitySubtitle": "Một vài hình ảnh sản phẩm và hoạt động của Sáu Bình Minh",
+  "activityCards": [
+    {
+      "imageAsset": "assets/media/images/products/he_keo_smartruss.jpg",
+      "title": "Hệ kèo thép nhẹ"
+    },
+    {
+      "imageAsset": "assets/media/images/product_main/song_klip_lok_sbm.webp",
+      "title": "Sản xuất tôn lợp"
+    }
+  ]
+}

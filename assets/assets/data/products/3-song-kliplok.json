@@ -1,0 +1,26 @@
+{
+  "name": "3 SÓNG KLIPLOK",
+  "slug": "3-song-kliplok",
+  "summary": "Tôn 3 sóng Kliplok cho công trình công nghiệp và mái có yêu cầu cao về độ kín nước.",
+  "imageAsset": "assets/media/images/product_main/song_klip_lok_sbm.webp",
+  "detailIntro": [
+    "Tôn 3 sóng Kliplok là giải pháp mái sử dụng cơ chế liên kết khóa, giúp hạn chế xuyên vít trên mặt mái và nâng cao khả năng chống dột cho công trình.",
+    "Sản phẩm thường được dùng cho nhà xưởng, nhà kho, công trình công nghiệp hoặc những mái có khẩu độ dài cần sự bền vững và độ kín nước cao."
+  ],
+  "priceImageAssets": [
+    "assets/media/images/product_main/song_klip_lok_sbm.webp"
+  ],
+  "galleryImageAssets": [
+    "assets/media/images/gallery/kliplok_xuong_1.jpg",
+    "assets/media/images/gallery/kliplok_xuong_2.webp",
+    "assets/media/images/gallery/kliplok_xuong_3.webp"
+  ],
+  "highlights": [
+    "Liên kết khóa, hạn chế lộ vít",
+    "Độ kín nước cao",
+    "Phù hợp nhà xưởng và công trình lớn",
+    "Tạo bề mặt mái hiện đại, sạch đẹp"
+  ],
+  "pdfAssets": [],
+  "videoUrls": []
+}

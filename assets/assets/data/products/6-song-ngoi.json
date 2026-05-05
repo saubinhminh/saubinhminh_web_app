@@ -1,0 +1,27 @@
+{
+  "name": "6 SÓNG NGÓI",
+  "slug": "6-song-ngoi",
+  "summary": "Tôn sóng ngói tạo hình mái đẹp, phù hợp nhà phố, biệt thự, nhà cấp 4 và các công trình cần thẩm mỹ cao.",
+  "imageAsset": "assets/media/images/product_main/song_ngoi_sbm.jpg",
+  "detailIntro": [
+    "Tôn 6 sóng ngói mang lại dáng mái giống ngói truyền thống nhưng có ưu điểm nhẹ hơn, thi công nhanh hơn và giảm tải cho hệ khung mái.",
+    "Sản phẩm rất phù hợp cho nhà ở dân dụng, biệt thự, nhà vườn và các công trình cần vẻ ngoài sang trọng trong khi vẫn tối ưu tiến độ thi công."
+  ],
+  "priceImageAssets": [
+    "assets/media/images/product_main/song_ngoi_sbm.jpg",
+    "assets/media/images/product_main/ngoi_showroom.jpg"
+  ],
+  "galleryImageAssets": [
+    "assets/media/images/gallery/ngoi_nha_1.webp",
+    "assets/media/images/gallery/ngoi_nha_2.webp",
+    "assets/media/images/gallery/ngoi_nha_3.webp"
+  ],
+  "highlights": [
+    "Thẩm mỹ đẹp như mái ngói",
+    "Trọng lượng nhẹ hơn ngói truyền thống",
+    "Thi công nhanh, dễ bảo trì",
+    "Phù hợp nhiều kiểu nhà dân dụng"
+  ],
+  "pdfAssets": [],
+  "videoUrls": []
+}

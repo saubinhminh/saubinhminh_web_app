@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Đang chuyển hướng...</title>
+  <script>
+    (function () {
+      var target = location.pathname + location.search + location.hash;
+      try {
+        sessionStorage.setItem('sbm_route_404_redirect', target);
+      } catch (_) {}
+      location.replace('/');
+    })();
+  </script>
+</head>
+<body></body>
+</html>

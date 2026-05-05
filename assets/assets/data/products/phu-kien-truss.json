@@ -1,0 +1,27 @@
+{
+  "name": "PHỤ KIỆN TRUSS",
+  "slug": "phu-kien-truss",
+  "summary": "Phụ kiện liên kết đồng bộ cho hệ khung kèo thép nhẹ như bát đỉnh, bát liên kết, vít và bản mã.",
+  "imageAsset": "assets/media/images/product_main/bat_lien_ket_sbm.webp",
+  "detailIntro": [
+    "Phụ kiện truss là nhóm vật tư không thể thiếu để liên kết, neo giữ và hoàn thiện hệ khung kèo thép nhẹ một cách chắc chắn và đồng bộ.",
+    "Việc sử dụng đúng chủng loại phụ kiện giúp quá trình lắp dựng nhanh hơn, hạn chế sai số thi công và tăng độ ổn định cho toàn bộ hệ mái sau khi hoàn thiện."
+  ],
+  "priceImageAssets": [
+    "assets/media/images/gallery/bang_gia_phu_kien_truss.webp"
+  ],
+  "galleryImageAssets": [
+    "assets/media/images/gallery/phu_kien_truss_tham_khao_01_20260502.webp",
+    "assets/media/images/gallery/phu_kien_truss_tham_khao_02_20260502.webp",
+    "assets/media/images/gallery/phu_kien_truss_tham_khao_03_20260502.jpg",
+    "assets/media/images/gallery/phu_kien_truss_tham_khao_04_20260502.jpg"
+  ],
+  "highlights": [
+    "Đồng bộ cho hệ khung kèo thép nhẹ",
+    "Nhiều chủng loại liên kết thông dụng",
+    "Tăng độ chắc chắn khi lắp dựng",
+    "Thuận tiện cho thi công và bảo trì"
+  ],
+  "pdfAssets": [],
+  "videoUrls": []
+}

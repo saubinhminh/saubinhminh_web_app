@@ -1,0 +1,56 @@
+{
+  "title": "VỀ CHÚNG TÔI",
+  "aboutVideo": {
+    "videoId": "ljWuc2shJec",
+    "title": "Video Giới Thiệu SBM"
+  },
+  "aboutText": "Chính thức hoạt động từ năm 2000 chúng tôi luôn tự hào là nhà sản xuất và phân phối các sản phẩm thép hình, tôn lợp của các tập đoàn sản xuất thép hàng đầu trên thế giới và trong nước như:\n- Tôn Lợp ZACS INOK450 (BH25N), ZACS BỀN INOK439 (BH15N), ...\n- Tôn Lợp ĐÔNG Á, POMINA, VIỆT ÚC, ...\n- Hệ Kèo Thép Mạ Nhôm Kẽm SMARTRUSS ACTIVE VÀNG HỒNG (BH30N), THANH KÈO ZACS XANH LAM, ...\n- Hệ Kèo Thép Mạ Nhôm Kẽm SATRUSS NÂU GỖ AZ150 (BH20N), SATRUSS XANH BLUE AZ150 (BH20N), ...\n- PHỤ KIỆN TRUSS (BÁT LIÊN KẾT, BÁT ĐỈNH, TẤM DÁN NÓC SANO, ...)\n- Sản Xuất và Lắp Dựng Nhà Xã Hội SAHOME, Nhà Thép Siêu Bền ZAMIL, RANBUILD, ...\n- Gia công Phủ Cách Âm Cách Nhiệt PU 5 Sóng, PU 9 Sóng, ...\n- Xà Gồ C Mạ Kẽm, Thép hình hộp các loại, Tấm cách nhiệt Cát Tường, ...\nCùng với những hỗ trợ chuyên nghiệp về thiết kế hệ khung giàn chuyên nghiệp (Phần mềm Supracadd) mang đến cho khách hàng những khung mái nhà lợp ngói vững vàng, những khung nhà xưởng siêu nhẹ, siêu bền, ...\nBên cạnh đó Sáu Bình Minh còn là đơn vị sở hữu nhiều công nghệ đã cán tôn hiện đại bậc nhất hiện nay như 5 Sóng BlueScope, 9 Sóng Vuông Cải Tiến, 6 Sóng Ngói CPAC, 3 Sóng Kliplok (Hữu Dụng 1m), Các loại Diềm Góc, Máng Xối, ...\nChắc chắn sẽ làm hài lòng tất cả các khách hàng dù là xây dựng dân dụng hay Công Nghiệp.",
+  "headquartersImageAsset": "assets/media/images/site/anh_tru_so_sbm.webp",
+  "headquartersCaption": "CÁC TRỤ SỞ SÁU BÌNH MINH",
+  "activityTitle": "HOẠT ĐỘNG",
+  "activitySubtitle": "MỘT VÀI VIDEO VÀ HÌNH ẢNH HOẠT ĐỘNG CỦA SÁU BÌNH MINH",
+  "activityVideos": [
+    {
+      "videoId": "TIpyTt8WtWg",
+      "title": "Video Kliplok SBM"
+    },
+    {
+      "videoId": "WMztcrMVe6U",
+      "title": "Video Kliplok 2"
+    }
+  ],
+  "activityImages": [
+    {
+      "imageAsset": "assets/media/images/gallery/hoat_dong_sbm_01.webp",
+      "title": "Hoạt động SBM 1"
+    },
+    {
+      "imageAsset": "assets/media/images/gallery/hoat_dong_sbm_02.webp",
+      "title": "Hoạt động SBM 2"
+    },
+    {
+      "imageAsset": "assets/media/images/gallery/hoat_dong_sbm_03.webp",
+      "title": "Hoạt động SBM 3"
+    },
+    {
+      "imageAsset": "assets/media/images/gallery/hoat_dong_sbm_04.webp",
+      "title": "Hoạt động SBM 4"
+    },
+    {
+      "imageAsset": "assets/media/images/gallery/hoat_dong_sbm_05.webp",
+      "title": "Hoạt động SBM 5"
+    },
+    {
+      "imageAsset": "assets/media/images/gallery/hoat_dong_sbm_06.webp",
+      "title": "Hoạt động SBM 6"
+    },
+    {
+      "imageAsset": "assets/media/images/gallery/hoat_dong_sbm_07.webp",
+      "title": "Hoạt động SBM 7"
+    },
+    {
+      "imageAsset": "assets/media/images/gallery/hoat_dong_sbm_08.webp",
+      "title": "Hoạt động SBM 8"
+    }
+  ]
+}

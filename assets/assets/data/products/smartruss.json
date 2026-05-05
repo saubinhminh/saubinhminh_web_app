@@ -1,0 +1,41 @@
+{
+  "name": "SMARTRUSS",
+  "slug": "smartruss",
+  "summary": "Hệ giàn thép mạ trọng lượng nhẹ LYSAGHT® SMARTRUSS® do NS BlueScope Lysaght Việt Nam sản xuất, phù hợp mái ngói, mái tôn, nhà dân dụng và công trình dịch vụ.",
+  "imageAsset": "assets/media/images/product_main/he_keo_smartruss.jpg",
+  "detailIntro": [
+    "LYSAGHT® SMARTRUSS® là hệ giàn thép mạ trọng lượng nhẹ được sản xuất bởi NS BlueScope Lysaght Việt Nam – chuyên gia cung cấp giải pháp thép ưu việt cho công trình với hơn 165 năm kinh nghiệm từ Úc. Thế hệ mới đáp ứng các yêu cầu khắt khe về thiết kế, có thể sử dụng thay thế cho nhiều ứng dụng của thép đen, đem lại hiệu quả kinh tế và tính thẩm mỹ cao hơn.",
+    "Ưu điểm vượt trội của SMARTRUSS® là khả năng chống ăn mòn cao nhờ vật liệu thép ZINCALUME® Ultra tích hợp công nghệ ACTIVATE™, bảo hành chính hãng lên đến 30 năm trong điều kiện phù hợp. Sản phẩm còn đảm bảo độ an toàn và chính xác cao với phần mềm chuyên nghiệp SUPRACADD® cùng hệ phụ kiện đồng bộ theo tiêu chuẩn Úc.",
+    "Hệ khung kèo này được thiết kế theo TCVN 2737-1995 về tải trọng và tác động, tiêu chuẩn Australia AS 4600:1996 về thiết kế kết cấu thép, và được tính toán bằng phần mềm chuyên dụng SUPRACADD. Dây chuyền sản xuất hiện đại ứng dụng công nghệ PLC cho phép nhập dữ liệu trực tiếp từ phần mềm thiết kế để giảm sai sót và đảm bảo độ chính xác của từng cấu kiện.",
+    "SMARTRUSS® được sản xuất theo quy trình quản lý chất lượng ISO 9001, giúp đảm bảo chất lượng trước khi xuất xưởng. Kết cấu mái nhẹ giúp giảm chi phí cho móng và khung, đồng thời khả năng chống ăn mòn tốt cũng góp phần giảm chi phí bảo dưỡng lâu dài cho công trình.",
+    "Nhờ liên kết bằng vít tự khoan cường độ cao, việc lắp dựng SMARTRUSS® diễn ra nhanh, gọn và không cần hàn ở các mối nối. Điều này giúp giảm giá nhân công, tiết kiệm chi phí đầu tư và rút ngắn tiến độ thi công thực tế tại công trình.",
+    "Lớp mạ hợp kim nhôm kẽm của thép ZINCALUME® giúp hệ dàn mái tránh gỉ sét, đồng thời công nghệ sản xuất tiên tiến hạn chế vật liệu dư thừa, giảm phế liệu xây dựng và nâng cao khả năng tái sử dụng. Đây là giải pháp có nguồn gốc công nghệ từ Australia và thân thiện với môi trường.",
+    "Chuẩn sản phẩm tại Sáu Bình Minh bao gồm thiết kế bằng phần mềm Suppracad được cấp phép chính thức từ NS BlueScope Lysaght Việt Nam, giấy chứng nhận bảo hành 30 năm, vật tư chính hãng có chứng nhận xuất xứ rõ ràng và hệ phụ kiện như bát liên kết, bát đỉnh, ốc vít, bulon, diềm, máng xối đạt tiêu chuẩn chất lượng cao.",
+    "Về thông số kỹ thuật, khoảng cách vượt nhịp kinh tế không cần gối giữa đạt khoảng 13m đối với mái ngói và 18m đối với mái tôn. Khoảng cách giàn tối ưu là khoảng 1.2m cho mái ngói và 3.0m cho mái tôn. Sản phẩm phù hợp cho công trình công cộng, khu du lịch vùng núi hoặc gần biển, công trình thương mại dịch vụ và nhà biệt thự, nhà ở dân dụng.",
+    "5 lý do nổi bật để lựa chọn SMARTRUSS® Active Vàng Hồng là: thép mạ hợp kim nhôm kẽm cường độ cao ZINCALUME® với lớp resin màu vàng hồng đẹp mắt, thiết kế bằng phần mềm chuyên nghiệp Supracadd, giải pháp trọn gói kèm bảo hành chống thủng vật liệu lên tới 30 năm, chống mối mọt và chống cháy."
+  ],
+  "priceImageAssets": [
+    "assets/media/images/gallery/bang_gia_smartruss.webp"
+  ],
+  "galleryImageAssets": [
+    "assets/media/images/gallery/smartruss_tham_khao_01_20260502.webp",
+    "assets/media/images/gallery/smartruss_tham_khao_02_20260502.webp",
+    "assets/media/images/gallery/smartruss_tham_khao_03_20260502.webp",
+    "assets/media/images/gallery/smartruss_tham_khao_04_20260502.webp"
+  ],
+  "highlights": [
+    "ZINCALUME® Ultra + ACTIVATE™",
+    "Bảo hành chính hãng tới 30 năm",
+    "Thiết kế bằng SUPRACADD®",
+    "Thi công nhanh, không cần hàn"
+  ],
+  "pdfAssets": [
+    {
+      "title": "Chứng nhận / tài liệu SMARTRUSS Kit 1",
+      "assetPath": "assets/media/pdfs/smartruss_kit1.pdf"
+    }
+  ],
+  "videoUrls": [
+    "https://youtu.be/ooiEfaQfVBI?si=xWcRzrf2sGsSs-ZN"
+  ]
+}
